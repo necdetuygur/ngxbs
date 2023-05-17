@@ -1,0 +1,11 @@
+{
+  "name": "schematics",
+  "main": "./ng-add/index.js",
+  "types": "./ng-add/index.d.ts",
+  "dependencies": {},
+  "peerDependencies": {
+    "@schematics/angular": "16.0.1",
+    "@angular-devkit/schematics": "16.0.1",
+    "@angular-devkit/core": "16.0.1"
+  }
+}
